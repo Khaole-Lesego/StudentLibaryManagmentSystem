@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace StudentLibaryManagmentSystem
 {
-    internal class Book
+    public class Book  // Changed from 'internal' to 'public'
     {
         public int BookId { get; private set; }
         public string Title { get; private set; }
