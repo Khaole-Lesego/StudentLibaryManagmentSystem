@@ -4,7 +4,7 @@ using System.Text;
 
 namespace StudentLibaryManagmentSystem
 {
-    internal class BookCatergory
+    internal class BookCategory
     {
         public enum BookCategory
         {
